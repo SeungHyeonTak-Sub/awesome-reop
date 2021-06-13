@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="apps.models.Category.*" />
+          <option value="core.account.models.Administrator.*" />
+          <option value="app.models.ApplicationForm.*" />
+          <option value="core.sms.models.AuthSms.*" />
+          <option value="app.models.Category.*" />
+          <option value="core.account.models.Use.*" />
+          <option value="core.operation.models.Booking.*" />
+          <option value="core.operation.models.Feedback.*" />
+          <option value="core.account.models.DeviceChangeHistory.*" />
+          <option value="core.alliance.models.ClubOperation.*" />
+          <option value="core.alliance.models.Club.*" />
+          <option value="core.account.models.ShotStack.*" />
+          <option value="dict.*" />
+          <option value="core.alliance.models.WelfareMall.*" />
+          <option value="core.account.models.WFWNestUser.*" />
+          <option value="core.alliance.models.PointMall.*" />
+          <option value="core.transaction.models.RedeemCode.*" />
+          <option value="core.transaction.models.Plan.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
